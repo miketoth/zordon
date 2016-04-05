@@ -1,0 +1,27 @@
+{
+  "name": "zordon",
+  "version": "1.0.0",
+  "description": "Chair league discord chat bot for heroes of the storm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miketoth/zordon.git"
+  },
+  "keywords": [
+    "HOTS",
+    "PPR",
+    "discord"
+  ],
+  "author": "skullum",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/miketoth/zordon/issues"
+  },
+  "homepage": "https://github.com/miketoth/zordon",
+  "dependencies": {
+    "discord.js": "^6.1.0"
+  }
+}
